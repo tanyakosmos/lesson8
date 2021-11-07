@@ -1,0 +1,19 @@
+body {
+    background-color: bisque;
+}
+h1 {
+    text-align: center;
+}
+.text img {
+    max-width: 100%;
+}
+.text_1 {
+    width: 400px;
+    height: 200px;
+    background-color: chartreuse;
+    overflow: scroll;
+}
+.fa-battle-net {
+    color: darkgreen;
+    font-size: 50px;
+}
